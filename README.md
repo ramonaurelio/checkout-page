@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://elaborate-moonbeam-389611.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/ramonaurelio/checkout-page">
       Solution
     </a>
     <span> | </span>
@@ -40,7 +40,7 @@
 ![screenshot](/img/Screenshot_6.png)
 
 I really enjoyed the short time working on this project. I improved on the use of the Grid property and Flexbox in CSS3.
-You can find the demo of the webpage [here](https://luminous-semifreddo-6a4ee4.netlify.app/)
+You can find the demo of the webpage [here](https://elaborate-moonbeam-389611.netlify.app/)
 
 ### Built With
 
@@ -62,7 +62,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/ramonaurelio/checkout-page
 
 # Install dependencies
 $ npm install
